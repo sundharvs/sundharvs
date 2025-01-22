@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi!
+
+I'm a graduate student at Georgia Tech studying autonomy, robotics and control theory. 
+
+I'm passionate about building autonomous systems with strong safety guarantees in dynamic environments, which I'm working on at the [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/).
+
+In the past, I have
+- developed perception and planning algorithms for quadrotors at [Purdue](https://engineering.purdue.edu/PURT)
+- verified aircraft control systems using model-based simulations at Gulfstream
+
+Check out my [LinkedIn](https://www.linkedin.com/in/sundharvs/) or some of my projects below!
 
 <!--
 **sundharvs/sundharvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
